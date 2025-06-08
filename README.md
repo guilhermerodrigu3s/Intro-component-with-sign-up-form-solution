@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Click here to see the live site solution]([https://your-live-site-url.com](https://guilhermerodrigu3s.github.io/Intro-component-with-sign-up-form-solution/))
 
 ## My process
 
@@ -48,5 +48,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@guilhermerodrigu3s](https://www.frontendmentor.io/profile/guilhermerodrigu3s)
+
